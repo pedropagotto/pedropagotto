@@ -2,7 +2,7 @@
 
 #### Desenvolvedor de Software, sou apaixonado por arquitetura e minha linguagem do ❤️ é C# e toda plataforma .NET e Azure.
 <div>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropagotto&langs_count=10&theme=algolia&hide_progress=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropagotto&langs_count=5&theme=algolia&hide_progress=true"/>
 </div>
 
 <div style="display: inline_block"><br>
